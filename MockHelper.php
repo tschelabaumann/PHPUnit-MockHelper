@@ -1,7 +1,5 @@
 <?php
 
-namespace Paymill\LibraryBackend\PhpUnit;
-
 use PHPUnit_Framework_MockObject_MockObject;
 use PHPUnit_Framework_TestCase;
 use Exception;
